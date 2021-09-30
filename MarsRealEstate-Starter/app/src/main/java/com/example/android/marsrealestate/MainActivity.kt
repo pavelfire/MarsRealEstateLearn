@@ -20,6 +20,15 @@ package com.example.android.marsrealestate
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
+//29 09 2021
+//https://developer.android.com/codelabs/kotlin-android-training-internet-data?index=..%2F..android-kotlin-fundamentals#4
+
+// https://codelabs.developers.google.com/codelabs/serverless-web-apis#0
+
+// https://codelabs.developers.google.com/codelabs/cloud-springboot-kubernetes#0
+// https://docs.openexchangerates.org/docs/api-introduction
+
+
 class MainActivity : AppCompatActivity() {
 
     /**
